@@ -27,7 +27,7 @@ function App() {
       </main>
       
       <footer className="text-center py-8 text-slate-500 text-sm">
-        © {new Date().getFullYear()} Pratyush. Built with React & Framer Motion.
+         pratyushwakde24@gmail.com 
       </footer>
     </div>
   );

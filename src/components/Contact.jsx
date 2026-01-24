@@ -8,8 +8,10 @@ const Contact = () => {
         whileInView={{ opacity: 1, y: 0 }}
         viewport={{ once: true }}
       >
-        <p className="text-primary font-mono mb-4">03. What's Next?</p>
-        <h2 className="text-4xl font-bold mb-6">Get In Touch</h2>
+        <h2 className="text-2xl font-bold mb-6 flex items-center gap-4">
+          <span className="text-primary">03.</span> Get In Touch
+          <span className="h-px bg-slate-700 flex-grow max-w-xs"></span>
+        </h2>
         <p className="text-slate-400 max-w-md mx-auto mb-8">
           I'm currently looking for new opportunities in Software Development. 
           Whether you have a question or just want to say hi, my inbox is open!
