@@ -9,6 +9,14 @@ const projects = [
     github: "https://github.com/pratyushwakde24-source/resume-builder",
     link: "#"
   },
+  {
+    title: "Hospital-management-system",
+    description:"Manage patients, staff, appointments, and billing",
+    tech: ["MongoDB", "Express", "React", "Node.js"],
+    github: "https://github.com/pratyushwakde24-source/hospital-management-system.",
+    link: "#"
+  } 
+
   ];
 const Projects = () => {
   return (
