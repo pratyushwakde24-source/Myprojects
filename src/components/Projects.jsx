@@ -15,7 +15,19 @@ const projects = [
     tech: ["MongoDB", "Express", "React", "Node.js"],
     github: "https://github.com/pratyushwakde24-source/hospital-management-system.",
     link: "#"
-  } 
+  }, 
+  { 
+    title: "EventBooker",
+    description:"An event booking platform for users to browse and reserve spots at various events.",
+    tech:["React", "Firebase", "Tailwind CSS"],
+    github:"https://github.com/pratyushwakde24-source/Eventapp.",
+    link:"#"
+
+
+
+  }
+
+  
 
   ];
 const Projects = () => {
